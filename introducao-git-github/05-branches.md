@@ -28,8 +28,8 @@ $ git branch
 
 ```bash
 $ git branch -v
-* main  numero-commit commit 2 nome-commit
-  outra-branch numero-commit-3 nome-commit
+* main  numero-commit nome-commit
+  outra-branch numero-commit nome-commit
 ```
 
 ### 💻 Mesclar Branches
